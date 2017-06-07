@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "53320378873",
+    "firebase_url": "https://bluetooth-locale-app.firebaseio.com",
+    "project_id": "bluetooth-locale-app",
+    "storage_bucket": "bluetooth-locale-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53320378873:android:9698e5b95c92bfb7",
+        "android_client_info": {
+          "package_name": "com.example.gps.app2_gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53320378873-go6ajj2cnbiqf7oqrhqv71fuegbvi05c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhn9y1KFxEs89czL-9_Gv03QU0jE9YcM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

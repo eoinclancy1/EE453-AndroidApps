@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BluetoothGPS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_display_screen">DisplayScreen</string>
+    <string name="Title">Android Workshop Project</string>
+    <string name="StartUp">Welcome!</string>
+    <string name="BTFound">Bluetooth Devices Found</string>
+    <string name="GPSMap">GPS Locations</string>
+
+</resources>
